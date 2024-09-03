@@ -2,6 +2,7 @@ const formBuscar = document.getElementById('form-buscar');
 const resultadoBusca = document.getElementById('resultado');
 const caixaBuscar = document.getElementById('caixa-buscar');
 const mostrarMais = document.getElementById('mostrar-mais');
+
 const accessKey = "YOUR_UNSPLASH_API_KEY"
 
 let keyword = "";
